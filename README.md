@@ -31,5 +31,5 @@ gcc -o Robot SourceCode.c graphics.c drawingFunctions.c
 ./Robot | java -jar drawapp-4.5.jar
 
 ## Purpose
-Coursework for UCL BSc Computer Science 
+Coursework for UCL BSc Computer Science  
 Module Code: COMP0002
