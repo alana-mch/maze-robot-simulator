@@ -1,6 +1,9 @@
 # maze-robot-simulator
 A C‑based simulation of a robot navigating a randomly generated grid, collecting markers, avoiding obstacles, and returning home using classic search algorithms. The program outputs drawing commands that are visualised using drawapp-4.5.jar.
 
+## Demo Video
+https://youtube.com/shorts/rSDeatw49tU?feature=share
+
 ## Features
 ### Grid Generation
 Creates a grid with a random width and height between 8 and 20 tiles.  
